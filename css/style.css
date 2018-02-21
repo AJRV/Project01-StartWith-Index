@@ -1,0 +1,20 @@
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+	background-color: yellow;
+	font-family: 'Open Sans', sans-serif;
+}
+textarea{
+	
+	width: 1000%;
+	height: 150px;
+	font-size: 1em;
+	font-family: "Courier", monospace;
+}
+
+.main {
+
+	width: 90%;
+	margin: auto;
+	padding: 2em;
+}
+
